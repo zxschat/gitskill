@@ -17,5 +17,6 @@ typedef Student{
 char name[100];
 unsigned int score;
 int a;
-BYTE brsv[4];
+short b;
+BYTE brsv[2];
 }t_Student;
