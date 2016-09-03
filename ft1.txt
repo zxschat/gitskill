@@ -13,3 +13,11 @@ this is a mster modify!
 [-----master test-----]
 [----test:dev-----]
 
+typedef Student{
+char name[100];
+unsigned int score;
+int a;
+short b;
+BYTE brsv[2];
+}t_Student;
+
