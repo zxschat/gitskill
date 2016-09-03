@@ -1,2 +1,4 @@
 good
 this is a diff with HEAD version!
+
+hello
