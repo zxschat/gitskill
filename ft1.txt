@@ -5,3 +5,5 @@ use fast-forward module
 ==========
 test info 2
 =========
+add something in line 8.
+add end!
