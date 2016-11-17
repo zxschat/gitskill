@@ -1,6 +1,0 @@
-good
-this is a diff with HEAD version!
-
-hello
-
-  test/dir2/test12.txt
